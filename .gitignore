@@ -7,6 +7,7 @@ data/
 processed/
 preprocessed/
 outputs/
+Preprocessing/*
 
 # Kaggle cache (falls mal im Repo)
 .kaggle/
