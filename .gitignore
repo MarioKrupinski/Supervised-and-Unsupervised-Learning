@@ -1,0 +1,14 @@
+# Raw datasets
+Raw Data/
+Raw Data/*
+
+# Preprocessed images
+data/
+processed/
+preprocessed/
+outputs/
+
+# Kaggle cache (falls mal im Repo)
+.kaggle/
+.kagglehub/
+.cache/
